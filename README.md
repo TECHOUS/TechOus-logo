@@ -1,5 +1,6 @@
 # TechOus-logo
-Help me make it better :D
+
+This is the logo of our Open Source Community TechOus. It a weird logo but we are improving it and making it better. Please follow the below process for design.
 
 ## Process of design
 
@@ -7,9 +8,20 @@ Help me make it better :D
 * logo should follow a proper commit and change format
 * logo should be feasable.
 
-### Process of Contribution 
+## LOGO FORMAT AVAILABLE
 
-* please mention the design change in the pull request dir
+* Html format
 
+## CONTRIBUTION
 
-### HAPPPPY CODING 
+If you are interested in making the logo better than you see [these details](CONTRIBUTING.md).
+
+## LICENSE
+
+Our project is under [MIT LICENSE](LICENSE).
+
+## AUTHORS
+
+1. nidhimittal2
+2. anarchymonkey
+3. GauravWalia19
