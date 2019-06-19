@@ -8,25 +8,32 @@ This is the logo of our Open Source Community TechOus. It a weird logo but we ar
 * logo should follow a proper commit and change format
 * logo should be feasable.
 
+## LOGO FORMAT AVAILABLE
+
+* PNG
+* ICO
+
 ## OFFICIAL LOGO
 
 ### LIGHT
 
-### NIGHT
+![techous logo](logos/official/techous.png)
 
-![night](logos/night/nightSmall.png)
+### DARK
+
+![night](logos/official/night/nightSmall.png)
+
+### WEBSITE
+
+![cloud](logos/official/cloud.png)
+
+![ico](logos/official/favicon.ico)
 
 ## OTHER LOGO VARIANTS
-
-![logo](logos/bare.png)
 
 ### BLACK
 
 ![black](logos/black/blackSmall.png)
-
-### BLUE
-
-![blue](logos/blue/blueBlackSmall.png)
 
 ### PURPLE RED
 
@@ -34,15 +41,7 @@ This is the logo of our Open Source Community TechOus. It a weird logo but we ar
 
 ### LIGHT BLUE
 
-![light](logos/light/lightSmall.png)
-
-### SPARKLE BLACK
-
-![night sparkle](logos/night/nightSmallSparkle.png)
-
-## LOGO FORMAT AVAILABLE
-
-* Html format
+![light](logos/lightblue/lightSmall.png)
 
 ## CONTRIBUTION
 
