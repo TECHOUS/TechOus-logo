@@ -8,7 +8,17 @@ This is the logo of our Open Source Community TechOus. It a weird logo but we ar
 * logo should follow a proper commit and change format
 * logo should be feasable.
 
-## LOGO VARIANTS
+## OFFICIAL LOGO
+
+### LIGHT
+
+### NIGHT
+
+![night](logos/night/nightSmall.png)
+
+## OTHER LOGO VARIANTS
+
+![logo](logos/bare.png)
 
 ### BLACK
 
@@ -22,15 +32,11 @@ This is the logo of our Open Source Community TechOus. It a weird logo but we ar
 
 ![purple red](logos/purple/purpleRedSmall.png)
 
-### LIGHT
+### LIGHT BLUE
 
 ![light](logos/light/lightSmall.png)
 
-### NIGHT
-
-![night](logos/night/nightSmall.png)
-
-#### WITH SPARKLES
+### SPARKLE BLACK
 
 ![night sparkle](logos/night/nightSmallSparkle.png)
 
